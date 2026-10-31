@@ -39,6 +39,7 @@ namespace RestaurantApp
 
             Console.WriteLine("คะแนนเฉลี่ย: " + averageRating.ToString("0.00"));
 
+            Console.WriteLine("\nขอบคุณที่ใช้งานระบบ RestaurantApp!");
         }
     }
 }
